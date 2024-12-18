@@ -1,4 +1,4 @@
-<h1 align="center">I'm Marshall Also Known as Marshall.codes</h1>
+<h1 align="center">Hello There, I'm Marshall</h1>
 <h3 align="center">Software Engineer | Machine Learning Enthusiast | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marshallshaddy&label=Profile%20views&color=b50303&style=flat" alt="marshallshaddy" /> </p>
