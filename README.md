@@ -1,6 +1,8 @@
 <h1 align="center">Hello There, I'm Marshall</h1>
 <h3 align="center">Software Engineer | Machine Learning Enthusiast | Competitive Programmer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marshallshaddy&label=Profile%20views&color=b50303&style=flat" alt="marshallshaddy" /> </p>
+
 <p align="left"> <a href="https://twitter.com/marshallcodes" target="blank"><img src="https://img.shields.io/twitter/follow/marshallcodes?logo=twitter&style=for-the-badge" alt="marshallcodes" /></a> </p>
 
 - 🔭 I’m currently working on [AI File Classifier (AIFC)](https://github.com/Marshallshaddy/AI-File-Classifier)
